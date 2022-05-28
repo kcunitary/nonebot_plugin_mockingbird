@@ -10,7 +10,7 @@ repository = "https://github.com/AkashiCoin/nonebot_plugin_mockingbird"
 keywords = ["MockingBird", "nonebot"]
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.10"
+python = ">=3.8"
 nonebot2="^2.0.0b1"
 nonebot-adapter-onebot = "^2.0.0-beta.1"
 langid = "^1.1.0"
